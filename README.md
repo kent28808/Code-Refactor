@@ -1,11 +1,11 @@
 # Code-Refractor
 
-Refractored the existing "Horiseon" website to make it accessible.
+Refractored the existing "Horiseon" website to make it accessible and optimized for search engines.  
 
 ## Description
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+This description references the technologies used to update the codebase that follows accessibility standards that is optimized for search engines.
+Items that were incorporated are Semantic HTML elements, logical structure independent of styling and positioning, alt attributes, sequential orders, and a concise and descriptive title.
 
 ## Built With
 
@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * **Ken Tanoue** 
 
-- [Link to Portfolio Site](#coming soon)
+- [Link to Portfolio Site](coming soon)
 - [Link to Github](https://github.com/kent28808/)
 
 ## License
@@ -50,6 +50,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Hats off to Jerome and W3 Schools.

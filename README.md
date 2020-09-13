@@ -4,7 +4,7 @@ Refractored the existing "Horiseon" website to make it accessible and optimized 
 
 ## Description
 
-This description references the technologies used to update the codebase that follows accessibility standards that is optimized for search engines.
+This is my first project, where i was tasked with refractoring the "horiseon" website.  The technologies used to update the codebase that follows accessibility standards that is optimized for search engines.
 Items that were incorporated are Semantic HTML elements, logical structure independent of styling and positioning, alt attributes, sequential orders, and a concise and descriptive title.
 
 ## Built With

@@ -19,9 +19,8 @@ Items that were incorporated are Semantic HTML elements, logical structure indep
 
 ## Authors
 
-* **Ken Tanoue** 
+* **Ken T.** 
 
-- [Link to Portfolio Site](coming soon)
 - [Link to Github](https://github.com/kent28808/)
 
 ## License

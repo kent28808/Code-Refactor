@@ -1,6 +1,6 @@
 # Code-Refactor
 
-Refractored the existing "Horiseon" website to make it accessible and optimized for search engines.  
+Refactored the existing "Horiseon" website to make it accessible and optimized for search engines.  
 
 ## Description
 
